@@ -6,5 +6,5 @@ Capitulo 2: Flujo de trabajo básico
 Capítulo 3: Gestión de ramas
 Capítulo 4: Repositorios remotos
 
-Capitulo 5:
+Capitulo 5: Conceptos avanzados
 
